@@ -1,0 +1,35 @@
+body{
+background-color: #212529;
+
+
+}
+nav{
+
+}
+
+.table{
+  color: #fff;
+  font-size: 20px;
+  font-weight: bolder;
+}
+h1{
+ color: white;
+ font-weight: bolder;
+}
+.card{
+  background-color: rgba(255, 255, 255, 0);
+  border: 3px solid black;
+
+}
+label{
+  color:rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: bolder;
+}
+th{
+  color: white;
+}
+.voltar{
+  display: flex;
+  justify-content: flex-end;
+}
